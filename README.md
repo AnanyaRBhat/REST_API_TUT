@@ -95,9 +95,9 @@ If validation fails, a 400 Bad Request is returned with a helpful message.
 2. **Start the server**
 
    ```bash
-   node index1.js
+   node CRUD_API.js
    # or
-   nodemon index1.js
+   nodemon CRUD_API.js
    ```
 
 3. **Test with Postman or Browser:**
